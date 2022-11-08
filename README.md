@@ -1,5 +1,6 @@
 # SS-Calander
 本程序开发的缘由是某学校懒得做电子课表导致同学们极为不方便的查询与安排自己的课程。
+程序参考：Asiimoviet逗比大神的SenBeta程序：https://github.com/Asiimoviet/senbeta
 #### 软件架构
 python:100%
 
